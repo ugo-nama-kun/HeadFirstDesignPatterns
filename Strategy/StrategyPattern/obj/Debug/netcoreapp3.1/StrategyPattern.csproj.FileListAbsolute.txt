@@ -1,0 +1,11 @@
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Strategy\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb
