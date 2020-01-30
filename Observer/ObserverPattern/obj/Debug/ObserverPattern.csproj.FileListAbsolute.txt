@@ -1,0 +1,6 @@
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Observer\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Observer\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Observer\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Observer\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Observer\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\Observer\ObserverPattern\obj\Debug\ObserverPattern.pdb
