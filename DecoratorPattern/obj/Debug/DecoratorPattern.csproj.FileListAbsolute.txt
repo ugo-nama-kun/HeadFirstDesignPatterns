@@ -1,0 +1,6 @@
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\Naoto Yoshida\training_repo\HeadFirstDesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
